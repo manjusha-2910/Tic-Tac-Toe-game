@@ -4,8 +4,8 @@
 The Tic Tac Toe Game is a console-based application implemented using Core Java. It allows two players to play the classic game of Tic Tac Toe, taking turns to place their marks on a 3x3 grid. The objective is to get three marks in a row, column, or diagonal. 
 
 ## Technology used
--Core Java
--This project demonstrates the use of object-oriented programming concepts and logic implementation in Java.
+- Core Java
+- This project demonstrates the use of object-oriented programming concepts and logic implementation in Java.
 
 ## Features
 - Two-player mode: Play against a friend.
